@@ -1,4 +1,4 @@
-# Customised DBMS Documentation
+# Customised DBMS Documentation 💻
 
 ## Introduction
 The "Customised DBMS" is a custom database management system implemented in Java. It is designed to manage employee records, offering functionalities such as inserting, viewing, updating, and deleting data. Additionally, it provides aggregate operations like calculating the count, sum, average, maximum, and minimum of employee salaries.
