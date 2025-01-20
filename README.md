@@ -56,11 +56,6 @@ This class manages the database operations.
 - `UpdateRecord(int id, String address)`: Updates the address of an employee by ID.
 - **Destructor:** Clears all resources when the database is terminated.
 
-### 3. **program570**
-This is the driver class that interacts with the user, providing a menu-driven interface for database operations.
-
----
-
 ## Usage Instructions
 1. **Run the Program:**
    Compile and execute the `program570.java` file.
